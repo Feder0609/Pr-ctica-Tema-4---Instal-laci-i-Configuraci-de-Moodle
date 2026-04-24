@@ -1,5 +1,9 @@
 # Practica-Tema-4 Instal-lació i Configuració de Moodle
 
+## 1. Introducción
+
+Esta práctica consiste en crear un portal Moodle de temática libre, configurarlo y explorar sus funciones como administrador.  
+El objetivo es aprender a gestionar un sitio Moodle desde cero: usuarios, cursos, ajustes del sitio y materiales.
 ## 2. Configuración inicial de Moodle
 
 ### 2.1. Administración del perfil de usuario
