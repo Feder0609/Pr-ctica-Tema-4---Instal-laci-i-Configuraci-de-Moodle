@@ -132,7 +132,7 @@ Comprovem que:
 - Clonem el contingut del curs A al curs B:
   - Anem a **Administració del curs > Importar**.
   - Seleccionem el **Curs A** i importem-lo.
- ![perfil](image (4))
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(1).png)
 
 ---
 
