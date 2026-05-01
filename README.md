@@ -113,18 +113,18 @@ Comprovem que:
 ## Logotip
 - Afegim un **logotip** al Moodle:  
   *Administració del lloc > Aparença > Logotip*
-  ![perfil](image (1))
+  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(1).png)
 # 7. Creació de continguts i activitats
 
 ## 7.1. Curs A
 - Assignem un **professor** i matriculem **alumnes**.
- ![perfil](image (2))
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(2).png)
 - Afegim continguts:
   - Diferents tipus d’**activitats i recursos** (pàgina, fitxer, URL, qüestionari…).
   ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-09.png)
 ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-38.png)
   - Una **tasca** amb data d’entrega oberta que demani pujar un **fitxer PDF**.
- ![perfil](image (3))
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(3).png)
 
 ---
 
@@ -132,7 +132,7 @@ Comprovem que:
 - Clonem el contingut del curs A al curs B:
   - Anem a **Administració del curs > Importar**.
   - Seleccionem el **Curs A** i importem-lo.
- ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(1).png)
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(4).png)
 
 ---
 
@@ -140,19 +140,19 @@ Comprovem que:
 
 ## Qualificacions
 - Completem totes les **tasques avaluables** amb un usuari alumne.
-  ![perfil](image (5))
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(5).png)
 
 - Configurem el **calificador** per obtenir una nota automàtica:
   - *Administració del curs > Configuració de qualificacions*
-   ![perfil](image (6))
+   ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(6).png)
 
 ---
 
 ## Insígnies
 - Creem una **insígnia** i l’atorguem a un alumne:
   - *Administració del lloc > Insígnies*
- ![perfil](image (7))
- ![perfil](image (8))
+  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(7).png)
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(8).png)
 
 
 
