@@ -87,8 +87,8 @@ Ajustamos opciones generales para que Moodle funcione bien.
   - **Bob** com a *professor*.
   - La resta d’alumnes com a *estudiants*.
 ![perfil](1)
-![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-24-25.png)
-
+![perfil](2)
+![perfil](3)
 
 ## 5.2. Verificació
 Comprovem que:
