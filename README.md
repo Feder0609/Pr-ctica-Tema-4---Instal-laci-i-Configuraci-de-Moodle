@@ -26,7 +26,7 @@ Ajustamos opciones generales para que Moodle funcione bien.
 ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-16%2012-21-06.png)
 - Configurar la **zona horaria correcta**.  
   Ruta: **Administración del sitio > Ubicación > Ajustes**.
-![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-16%2012-21-06.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-16%2012-22-45.png)
 - Cambiar el **idioma del sitio**.  
   Ruta: **Administración del sitio > Idioma > Ajustes**.
 ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-16%2012-21-06.png)
