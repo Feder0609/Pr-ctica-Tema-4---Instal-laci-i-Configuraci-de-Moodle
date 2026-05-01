@@ -29,14 +29,12 @@ Ajustamos opciones generales para que Moodle funcione bien.
 - Cambiar el **idioma del sitio**.  
   Ruta: **Administración del sitio > Idioma > Ajustes**.
 ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-17%2014-26-10.png)
-- Instalar **paquetes de idioma** si hace falta.  
-  Ruta: **Administración del sitio > Idioma > Paquetes de idioma**.
-![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-16%2012-21-06.png)
+
 - Activar una **política de contraseñas segura**  
   (mínimo 8 caracteres, mayúsculas, minúsculas y números).  
   Ruta: **Administración del sitio > Seguridad > Normas del sitio**.
-![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-16%2012-21-06.png)
-
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-17%2014-28-24.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-17%2014-29-18.png)
 
 ## 3. Creación de cursos
 
