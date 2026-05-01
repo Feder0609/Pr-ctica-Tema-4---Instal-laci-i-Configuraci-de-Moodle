@@ -90,7 +90,7 @@ Ajustamos opciones generales para que Moodle funcione bien.
 ![perfil](2)
 ![perfil](3)
 ![perfil](4)
-
+![perfil](5)
 ## 5.2. Verificació
 Comprovem que:
 - El **Curs A** es pot veure públicament.  
@@ -108,7 +108,6 @@ Comprovem que:
   - Capçalera (header)
   - Peu de pàgina (footer)
   - Pàgina principal (Front page)
-![perfil](5)
 ![perfil](6)
 ![perfil](7)
 ![perfil](8)
