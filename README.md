@@ -4,6 +4,7 @@
 
 Esta práctica consiste en crear un portal Moodle de temática libre, configurarlo y explorar sus funciones como administrador.  
 El objetivo es aprender a gestionar un sitio Moodle desde cero: usuarios, cursos, ajustes del sitio y materiales.
+
 ## 2. Configuración inicial de Moodle
 
 ### 2.1. Administración del perfil de usuario
@@ -20,7 +21,7 @@ Ajustamos opciones generales para que Moodle funcione bien.
 
 - Cambiar el **nombre largo** y **nombre corto** del sitio.  
   Ruta: **Administración del sitio > Página principal > Ajustes**.
-
+  ![imagen](Captura desde 2026-03-27 13-10-13.png)
 - Ocultar el contenido de la página principal para usuarios no autenticados.
 
 - Configurar la **zona horaria correcta**.  
