@@ -159,3 +159,18 @@ Comprovem que:
 ## Creació del qüestionari
 - Creem un qüestionari utilitzant preguntes del **banc de preguntes**.  
   ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(10).png)
+
+  # 10. Importació i exportació de cursos
+
+## Exportació
+- Exporteu una **còpia de seguretat** del curs:  
+  *Administració > Cursos > Còpies*  
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(11).png)
+
+- Envieu el fitxer a un company.
+
+## Importació
+- Importeu un curs que us hagi enviat un company:  
+  *Administració del curs > Importar*  
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(12).png)
+
