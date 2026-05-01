@@ -43,8 +43,8 @@ Ajustamos opciones generales para que Moodle funcione bien.
   Ruta: **Administración del sitio > Gestionar cursos y categorías**  
   o **Cursos > Añadir curso**.
   ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-05-25.png)
- ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-05-25.png)
-
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-05-34.png)
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-13-26.png)
 
 
 ### 3.2. Personalización de los cursos
