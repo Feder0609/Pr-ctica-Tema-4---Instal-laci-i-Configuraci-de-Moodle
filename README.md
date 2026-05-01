@@ -113,18 +113,18 @@ Comprovem que:
 ## Logotip
 - Afegim un **logotip** al Moodle:  
   *Administració del lloc > Aparença > Logotip*
-  ![perfil](10)
+  ![perfil](image (1))
 # 7. Creació de continguts i activitats
 
 ## 7.1. Curs A
 - Assignem un **professor** i matriculem **alumnes**.
-![perfil](11)
+ ![perfil](image (2))
 - Afegim continguts:
   - Diferents tipus d’**activitats i recursos** (pàgina, fitxer, URL, qüestionari…).
   ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-09.png)
 ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-38.png)
   - Una **tasca** amb data d’entrega oberta que demani pujar un **fitxer PDF**.
-![perfil](12)
+ ![perfil](image (3))
 
 ---
 
@@ -132,7 +132,7 @@ Comprovem que:
 - Clonem el contingut del curs A al curs B:
   - Anem a **Administració del curs > Importar**.
   - Seleccionem el **Curs A** i importem-lo.
-![perfil](13)
+ ![perfil](image (4))
 
 ---
 
@@ -140,19 +140,19 @@ Comprovem que:
 
 ## Qualificacions
 - Completem totes les **tasques avaluables** amb un usuari alumne.
-  **Captura 5:** tasques completades com a alumne.
+  ![perfil](image (5))
 
 - Configurem el **calificador** per obtenir una nota automàtica:
   - *Administració del curs > Configuració de qualificacions*
-  **Captura 6:** vista del llibre de qualificacions.
+   ![perfil](image (6))
 
 ---
 
 ## Insígnies
 - Creem una **insígnia** i l’atorguem a un alumne:
   - *Administració del lloc > Insígnies*
-- **Captura 7:** creació de la insígnia.
-- **Captura 8:** insígnia atorgada a un alumne.
+ ![perfil](image (7))
+ ![perfil](image (8))
 
 
 
