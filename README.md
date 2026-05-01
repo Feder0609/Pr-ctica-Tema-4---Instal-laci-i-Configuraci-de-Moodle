@@ -72,4 +72,50 @@ Ajustamos opciones generales para que Moodle funcione bien.
   Ruta: **Administración del sitio > Usuarios > Cargar usuarios**.
 ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-24-25.png)
 
+# 5. Matriculació d’usuaris als cursos
+
+## 5.1. Configuració de mètodes d’inscripció
+
+### Curs A – Fer-lo públic
+- Desactivem tots els mètodes d’inscripció.
+- El curs ha de ser accessible sense iniciar sessió.
+
+
+### Curs B – Inscripció manual
+- Activem el mètode **Registre manual d’usuaris**.
+- Matriculem:
+  - **Bob** com a *professor*.
+  - La resta d’alumnes com a *estudiants*.
+![perfil](1)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-24-25.png)
+
+
+## 5.2. Verificació
+Comprovem que:
+- El **Curs A** es pot veure públicament.  
+  **Captura 3:** vista del curs A sense iniciar sessió.
+- Per entrar al **Curs B**, cal iniciar sessió.  
+  **Captura 4:** pantalla que demana iniciar sessió.
+
+
+
+# 6. Personalització del lloc
+
+## Canvi d’aspecte
+- Descarreguem i instal·lem un **tema nou**:  
+  *Administració del lloc > Connectors > Instal·lar complement*
+- Activem el tema:  
+  *Administració del lloc > Aparença > Selector de temes*
+- Modifiquem:
+  - Capçalera (header)
+  - Peu de pàgina (footer)
+  - Pàgina principal (Front page)
+- **Captura 5:** instal·lació del tema.  
+- **Captura 6:** selector de temes.  
+- **Captura 7:** configuració de capçalera, footer i front page.
+
+## Logotip
+- Afegim un **logotip** al Moodle:  
+  *Administració del lloc > Aparença > Logotip*
+- **Captura 8:** pujada del logotip.
 
