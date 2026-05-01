@@ -154,4 +154,8 @@ Comprovem que:
  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(8).png)
  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(9).png)
 
+# 9. Qüestionaris
 
+## Creació del qüestionari
+- Creem un qüestionari utilitzant preguntes del **banc de preguntes**.  
+  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(10).png)
