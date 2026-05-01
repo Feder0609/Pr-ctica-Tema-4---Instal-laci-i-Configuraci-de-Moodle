@@ -51,7 +51,14 @@ Ajustamos opciones generales para que Moodle funcione bien.
 - Activar el **modo edición**.  
 - Añadir un material (por ejemplo, un PDF) a un tema.  
 - Cambiar el título de un tema.
-![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-16%2012-21-06.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-09.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-38.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-16-04.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-15-57.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-16-27.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-16-39.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-16-53.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-17-50.png)
 
 ## 4. Creación y gestión de usuarios
 
