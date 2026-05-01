@@ -21,7 +21,7 @@ Ajustamos opciones generales para que Moodle funcione bien.
 
 - Cambiar el **nombre largo** y **nombre corto** del sitio.  
   Ruta: **Administración del sitio > Página principal > Ajustes**.
-  ![Captura desde 2026-03-27 13-10-13.png]
+![Idioma](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-03-27%2013-10-13.png)
 - Ocultar el contenido de la página principal para usuarios no autenticados.
 
 - Configurar la **zona horaria correcta**.  
