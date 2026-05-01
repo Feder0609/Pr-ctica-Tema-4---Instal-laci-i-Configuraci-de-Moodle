@@ -89,15 +89,13 @@ Ajustamos opciones generales para que Moodle funcione bien.
 ![perfil](1)
 ![perfil](2)
 ![perfil](3)
+![perfil](4)
 
 ## 5.2. Verificació
 Comprovem que:
 - El **Curs A** es pot veure públicament.  
-  **Captura 3:** vista del curs A sense iniciar sessió.
 - Per entrar al **Curs B**, cal iniciar sessió.  
-  **Captura 4:** pantalla que demana iniciar sessió.
-
-
+  
 
 # 6. Personalització del lloc
 
@@ -110,12 +108,13 @@ Comprovem que:
   - Capçalera (header)
   - Peu de pàgina (footer)
   - Pàgina principal (Front page)
-- **Captura 5:** instal·lació del tema.  
-- **Captura 6:** selector de temes.  
-- **Captura 7:** configuració de capçalera, footer i front page.
-
+![perfil](5)
+![perfil](6)
+![perfil](7)
+![perfil](8)
+![perfil](9)
 ## Logotip
 - Afegim un **logotip** al Moodle:  
   *Administració del lloc > Aparença > Logotip*
-- **Captura 8:** pujada del logotip.
+
 
