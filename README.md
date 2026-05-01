@@ -166,11 +166,21 @@ Comprovem que:
 - Exporteu una **còpia de seguretat** del curs:  
   *Administració > Cursos > Còpies*  
  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(11).png)
+ # 11. Seguretat
 
-- Envieu el fitxer a un company.
+## Bannejar una IP
+- Bannegem una **IP específica** des de:  
+  *Administració del lloc > Seguretat > Polítiques IP*  
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(12).png)
 
-## Importació
-- Importeu un curs que us hagi enviat un company:  
-  *Administració del curs > Importar*  
- ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(12).png)
+## Política de seguretat
+- Apliquem una **política de seguretat** (per exemple, contrasenyes més fortes).  
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(13).png)
 
+## Justificació
+Hem aplicat aquestes mesures per:
+- Evitar accessos no autoritzats.  
+- Protegir dades d’alumnes i professors.  
+- Millorar la seguretat general del Moodle.
+
+ 
