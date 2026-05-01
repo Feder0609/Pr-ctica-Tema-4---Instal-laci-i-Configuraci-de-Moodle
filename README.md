@@ -13,7 +13,7 @@ En esta parte cambiamos información básica del usuario.
 - Cambiar el correo y la contraseña.  
 - Añadir un avatar al perfil.  
   Ruta: **Perfil > Editar** o **Preferencias**.
-
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-16%2012-12-22.png)
 
 
 ### 2.2. Configuración del sitio
