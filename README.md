@@ -145,13 +145,13 @@ Comprovem que:
 - Configurem el **calificador** per obtenir una nota automàtica:
   - *Administració del curs > Configuració de qualificacions*
    ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(6).png)
+ ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(7).png)
 
----
 
 ## Insígnies
 - Creem una **insígnia** i l’atorguem a un alumne:
   - *Administració del lloc > Insígnies*
-  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(7).png)
+
  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/image%20(8).png)
 
 
