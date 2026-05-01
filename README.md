@@ -51,8 +51,6 @@ Ajustamos opciones generales para que Moodle funcione bien.
 - Activar el **modo edición**.  
 - Añadir un material (por ejemplo, un PDF) a un tema.  
 - Cambiar el título de un tema.
-![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-09.png)
-![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-38.png)
 ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-16-04.png)
 ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-15-57.png)
 ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-16-27.png)
@@ -115,5 +113,46 @@ Comprovem que:
 ## Logotip
 - Afegim un **logotip** al Moodle:  
   *Administració del lloc > Aparença > Logotip*
+  ![perfil](10)
+# 7. Creació de continguts i activitats
+
+## 7.1. Curs A
+- Assignem un **professor** i matriculem **alumnes**.
+![perfil](11)
+- Afegim continguts:
+  - Diferents tipus d’**activitats i recursos** (pàgina, fitxer, URL, qüestionari…).
+  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-09.png)
+![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-14-38.png)
+  - Una **tasca** amb data d’entrega oberta que demani pujar un **fitxer PDF**.
+![perfil](12)
+
+---
+
+## 7.2. Curs B
+- Clonem el contingut del curs A al curs B:
+  - Anem a **Administració del curs > Importar**.
+  - Seleccionem el **Curs A** i importem-lo.
+![perfil](13)
+
+---
+
+# 8. Qualificacions i insígnies
+
+## Qualificacions
+- Completem totes les **tasques avaluables** amb un usuari alumne.
+  **Captura 5:** tasques completades com a alumne.
+
+- Configurem el **calificador** per obtenir una nota automàtica:
+  - *Administració del curs > Configuració de qualificacions*
+  **Captura 6:** vista del llibre de qualificacions.
+
+---
+
+## Insígnies
+- Creem una **insígnia** i l’atorguem a un alumne:
+  - *Administració del lloc > Insígnies*
+- **Captura 7:** creació de la insígnia.
+- **Captura 8:** insígnia atorgada a un alumne.
+
 
 
