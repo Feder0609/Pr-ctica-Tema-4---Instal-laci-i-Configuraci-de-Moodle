@@ -44,7 +44,7 @@ Ajustamos opciones generales para que Moodle funcione bien.
 - Crear el **Curso B** con **5 temas**.  
   Ruta: **Administración del sitio > Gestionar cursos y categorías**  
   o **Cursos > Añadir curso**.
-  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-16%2012-21-06.png)
+  ![perfil](https://github.com/Feder0609/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-23%2014-05-25.png)
 
 
 
